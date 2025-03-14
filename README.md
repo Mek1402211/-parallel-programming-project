@@ -23,7 +23,7 @@ A college project demonstrating parallel programming concepts in Java by impleme
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/parallel-image-processing.git
+   git clone https://github.com/Mek1402211/-parallel-programming-project.git
    cd parallel-image-processing
    ```
 2. Compile the project:
